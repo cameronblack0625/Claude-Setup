@@ -1,0 +1,6 @@
+{
+    "name": "megathink",
+    "version": "1.0.0",
+    "description": "Enable medium extended thinking (10k token budget)",
+    "entry": "SKILL.md"
+}

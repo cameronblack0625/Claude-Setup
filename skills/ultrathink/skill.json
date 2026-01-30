@@ -1,0 +1,6 @@
+{
+    "name": "ultrathink",
+    "version": "1.0.0",
+    "description": "Enable maximum extended thinking (32k token budget)",
+    "entry": "SKILL.md"
+}

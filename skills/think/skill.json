@@ -1,0 +1,6 @@
+{
+    "name": "think",
+    "version": "1.0.0",
+    "description": "Enable basic extended thinking (4k token budget)",
+    "entry": "SKILL.md"
+}

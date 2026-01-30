@@ -1,0 +1,6 @@
+{
+    "name": "nothink",
+    "version": "1.0.0",
+    "description": "Disable extended thinking",
+    "entry": "SKILL.md"
+}
